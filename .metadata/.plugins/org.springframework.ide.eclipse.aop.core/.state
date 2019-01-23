@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Eureka-client"/>
+<aop-project name="Eureka-service"/>
+<aop-project name="config"/>
+<aop-project name="WebSite"/>
+</aop-reference-model>
